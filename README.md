@@ -92,6 +92,6 @@ npm run mint
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [0xOptimusPrime](https://github.com/0xOptimusPrime)
-twitter : @0xmtnslk
-telegram : @oxmtnslk
+github : [CoinHuntersTR](https://github.com/CoinHuntersTR)
+twitter : @CoinHuntersTR
+telegram : @CoinHuntersTR
